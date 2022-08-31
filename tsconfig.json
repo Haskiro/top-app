@@ -22,7 +22,7 @@
   },
   "include": [
     "next-env-custom.d.ts",
-    "images.d.ts",
+    "images.d.ts.ts",
     "**/*.ts",
     "**/*.tsx"
   ],
